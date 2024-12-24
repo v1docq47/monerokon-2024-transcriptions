@@ -2,6 +2,8 @@
 
 _**Bulletproofs++**_
 
+_Bulletproofs++ is a new transparent confidential transaction protocol based on the Bulletproofs inner product argument. It features shorter proof sizes and much faster verification complexity. It also supports efficient multi-asset confidential transactions. This is all made possible by a novel "reciprocal argument" (also known as log derivative lookup)._
+
 [https://youtu.be/e7xX0TQD2tM](https://youtu.be/e7xX0TQD2tM)
 
 ---

@@ -2,6 +2,12 @@
 
 _**Cypherpunk: Past, Present, and Future**_
 
+_Cypherpunks were creating a parallel universe of liberty. They were using anonymous communication, encryption, to gain a new territory of liberty. With Bitcoin switching partly to NgU narrative, is Monero taking over the helm of the ship of liberty? And where are we going? Did we solve the technical challenges, or do we have to develop further?_
+
+_And of course …what do we do about the normies? Can they come in?_
+
+_Join me in this cypherpunk/lunarpunk journey._
+
 [https://youtu.be/iBOumm2SrcU](https://youtu.be/iBOumm2SrcU)
 
 ---
