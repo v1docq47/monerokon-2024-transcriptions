@@ -8,7 +8,7 @@ _Для начала мы рассмотрим основные принципы
 
 _Электронная почта для вопросов: compunerophd@proton.me_
 
-[https://youtu.be/2OpovwMbfGY](https://youtu.be/2OpovwMbfGY)
+[https://youtu.be/ZG0ZJCwRKfs](https://youtu.be/ZG0ZJCwRKfs)
 
 ---
 
