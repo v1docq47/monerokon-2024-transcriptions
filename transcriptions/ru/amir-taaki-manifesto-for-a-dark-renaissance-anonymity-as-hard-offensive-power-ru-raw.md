@@ -8,7 +8,7 @@ _Обзор DarkFi:_
 - _План DarkFi по реализации объединённого майнинга с Monero_
 - _Обзор экосистемы_
 
-[https://youtu.be/GPe6ndIHArU](https://youtu.be/GPe6ndIHArU)
+[https://youtu.be/powNFZJaQRM](https://youtu.be/powNFZJaQRM)
 
 ---
 
