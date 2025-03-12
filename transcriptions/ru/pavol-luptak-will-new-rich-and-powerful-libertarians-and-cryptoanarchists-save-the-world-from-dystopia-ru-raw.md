@@ -10,7 +10,7 @@ _Означает ли тот факт, что криптовалюта непр
 
 _Спасут ли новые богатые и влиятельные либертарианцы и криптоанархисты мир от антиутопии?_
 
-[https://youtu.be/d7SvTTR4Pxo](https://youtu.be/d7SvTTR4Pxo)
+[https://youtu.be/Vx6bgkUX-Vc](https://youtu.be/Vx6bgkUX-Vc)
 
 ---
 
