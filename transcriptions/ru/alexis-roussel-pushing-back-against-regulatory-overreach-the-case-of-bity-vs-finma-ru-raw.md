@@ -12,7 +12,7 @@ _Это дело является новым, поскольку это перв
 
 _Все документы и ссылка краудфандинг (также в XMR) расположены здесь: https://btcpay.nymte.ch/apps/2aks2XSx8ogQFc2CPuKVben8KNcP/crowdfund_
 
-[https://youtu.be/sT6VtNAOKqI](https://youtu.be/sT6VtNAOKqI)
+[https://youtu.be/QKt7k_gcWbg](https://youtu.be/QKt7k_gcWbg)
 
 ---
 
